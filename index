@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AquaRemedy Florida - Smart Water Solutions</title>
+    <meta name="description" content="AquaRemedy Florida provides smart water solutions tailored to meet the unique needs of Florida homes.">
+    <meta name="keywords" content="AquaRemedy, water solutions, smart water, water filtration, leak detection, remote control, drinking water system">
+    <style>
+        /* Global Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        /* Header Styles */
+        header {
+            background-color: #0077b6;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        /* Navigation Bar */
+        nav {
+            background-color: #023e8a;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Banner Section */
+        .banner {
+            background-image: url('https://via.placeholder.com/1920x500');
+            background-size: cover;
+            background-position: center;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+        }
+
+        .banner h2 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        /* Content Section */
+        .content {
+            padding: 20px;
+        }
+
+        .content h2 {
+            color: #0077b6;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* Features Section */
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .feature {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            width: 250px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .feature h3 {
+            color: #023e8a;
+        }
+
+        /* Footer Section */
+        footer {
+            background-color: #023e8a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>AquaRemedy Florida</h1>
+        <p>Smart Water Solutions for Your Home</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#features">Features</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Banner Section -->
+    <div class="banner">
+        <h2>Transform Your Water with Smart Technology</h2>
+    </div>
+
+    <!-- Main Content -->
+    <main class="content">
+        <!-- Features Section -->
+        <section id="features">
+            <h2>Our Features</h2>
+            <div class="features">
+                <div class="feature">
+                    <h3>Smart Water Filtration</h3>
+                    <p>Efficiently removes hardness, chlorine, heavy metals, and more.</p>
+                </div>
+                <div class="feature">
+                    <h3>Leak Detection</h3>
+                    <p>Automatic water shut-off to prevent damage.</p>
+                </div>
+                <div class="feature">
+                    <h3>Remote Control</h3>
+                    <p>Manage your water system from anywhere with our app.</p>
+                </div>
+                <div class="feature">
+                    <h3>Integration</h3>
+                    <p>Compatible with Amazon Alexa and Home Assistant.</p>
+                </div>
+                <div class="feature">
+                    <h3>Minimal Maintenance</h3>
+                    <p>Automated cleaning and diagnostics reduce hassle.</p>
+                </div>
+                <div class="feature">
+                    <h3>Drinking Water System</h3>
+                    <p>High-quality drinking water right under your sink.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>AquaRemedy Florida is your trusted partner in providing smart water solutions, tailored to meet the unique needs of Florida homes.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>© 2025 AquaRemedy Florida. All rights reserved.</p>
+    </footer>
+</body>
+</html>
